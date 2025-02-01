@@ -17,7 +17,7 @@
   #maxParallel: 3
 
 pool:
-  vmImage: "ubuntu-latest"
+  name: "My Pool"
 
 steps:
 - task: Maven@3
